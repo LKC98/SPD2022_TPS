@@ -6,4 +6,4 @@ Integrantes del grupo:
 - Leonardo Kevin Chambi Quispe
 
 TP_01| Binary Chronometer (Tinkercad):
-LINK: https://www.tinkercad.com/things/iYZO31O4Wh9
+LINK: https://www.tinkercad.com/things/epdIFELbNfR
